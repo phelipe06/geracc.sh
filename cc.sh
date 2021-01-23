@@ -5,6 +5,7 @@
  clear
 echo
 echo
+
 setterm --foreground cyan
 echo "             ____________________________           "
 setterm --foreground cyan
